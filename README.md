@@ -1,0 +1,2 @@
+# safe
+safelink blogger script
